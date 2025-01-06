@@ -1,5 +1,5 @@
 const fs = require('fs');
-const filePath = './Worker/wrangler.json';
+const filePath = './src/wrangler.json';
 
 const readline = require('readline').createInterface({
     input: process.stdin,
